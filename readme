@@ -1,0 +1,33 @@
+Tibame課表自動下載
+
+1. 操作要領
+  a. 預先設定
+    - 在工作目錄下創建token檔案，並填寫於檔案內
+      登入帳號密碼後由開發人員工具獲得
+      https://www.tibame.com/curriculum/class
+    - 設定課程起始以及結束時間
+      於 env.py 中設定
+  b. 執行 main
+    - 上述設定正確後會產生 3個檔案
+    - API_JSON :原始碼，供離線或不想騷擾伺服器時使用
+    - PDF_NAME :輸出的最終檔案名稱，格式為PDF
+    - CLASS_NAME_MAPPING :
+      部分課程名稱過長溢出表格，目前沒有合適的手段合理換行。
+      所以會預先輸出一個檔案，再手動把換行符號加入美化排版。
+
+2. 相關參數
+api url
+https://api-c2c.tibame.com/v1/c2c/schedule/student/schedule-list
+method request-get
+
+parameter
+"fromDate": "2025/9/01 00:00:00"
+"toDate": "2025/11/30 23:59:59"
+開始以及結束時間
+
+token
+登入帳號密碼後從開發人員工具得知
+
+底色
+color_chart.py
+會輸出 pdf 色碼表，想換顏色的可以參考置換 colors.colorname 參數

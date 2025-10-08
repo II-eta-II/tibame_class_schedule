@@ -1,0 +1,4551 @@
+{
+  "statusCode": 200,
+  "error": false,
+  "data": {
+    "classInfo": {
+      "classUid": 1096,
+      "className": "第148期",
+      "classID": "CJC102",
+      "location": "JungliCenter",
+      "courseType": "goodjob"
+    },
+    "scheduleList": [
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14215,
+        "scheduleMissionUid": 93212,
+        "name": "開訓/導師時間",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14215,
+        "scheduleMissionUid": 93213,
+        "name": "開訓/導師時間",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13750,
+        "scheduleMissionUid": 93256,
+        "name": "網路概論",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13750,
+        "scheduleMissionUid": 93257,
+        "name": "網路概論",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13750,
+        "scheduleMissionUid": 93258,
+        "name": "網路概論",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13750,
+        "scheduleMissionUid": 93259,
+        "name": "網路概論",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13750,
+        "scheduleMissionUid": 93260,
+        "name": "網路概論",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-19",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13750,
+        "scheduleMissionUid": 93261,
+        "name": "網路概論",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-19",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93262,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-09-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93263,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-09-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93264,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-09-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13751,
+        "scheduleMissionUid": 93265,
+        "name": "網路封包分析實務",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-22",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13751,
+        "scheduleMissionUid": 93266,
+        "name": "網路封包分析實務",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13751,
+        "scheduleMissionUid": 93267,
+        "name": "網路封包分析實務",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-22",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13751,
+        "scheduleMissionUid": 93268,
+        "name": "網路封包分析實務",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93269,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-25",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93270,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93271,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-25",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93272,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93275,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-09-30",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93276,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-09-30",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93277,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-01",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93278,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-01",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93279,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-02",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93280,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-02",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93281,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-03",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 93282,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-03",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93285,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-09",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93286,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-09",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93287,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-10-09",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93288,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-10-14",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93289,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-10-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93290,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-13",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93291,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-13",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93292,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-14",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93293,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-14",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93294,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 93295,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13756,
+        "scheduleMissionUid": 93296,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13756,
+        "scheduleMissionUid": 93297,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93298,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-20",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93299,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-20",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93300,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-21",
+        "courseUid": null,
+        "classRoomUid": "21",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 905",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93301,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-21",
+        "courseUid": null,
+        "classRoomUid": "21",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 905",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93302,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93303,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13756,
+        "scheduleMissionUid": 93306,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-27",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13756,
+        "scheduleMissionUid": 93307,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-27",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13758,
+        "scheduleMissionUid": 93308,
+        "name": "Shell Script",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-28",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13758,
+        "scheduleMissionUid": 93309,
+        "name": "Shell Script",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-28",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13758,
+        "scheduleMissionUid": 93310,
+        "name": "Shell Script",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-30",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13758,
+        "scheduleMissionUid": 93311,
+        "name": "Shell Script",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-30",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13758,
+        "scheduleMissionUid": 93312,
+        "name": "Shell Script",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-31",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13758,
+        "scheduleMissionUid": 93313,
+        "name": "Shell Script",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-31",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93314,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-10-28",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93315,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-10-31",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93316,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-03",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93317,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-04",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93318,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-03",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93319,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-04",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93320,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-13",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93321,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-14",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93322,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-13",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93323,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-14",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13757,
+        "scheduleMissionUid": 93324,
+        "name": "Linux Server伺服器建置與系統資安",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93325,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-03",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93326,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-04",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93327,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-14",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93328,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93329,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13766,
+        "scheduleMissionUid": 93330,
+        "name": "夜間輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-21",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93331,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-06",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93332,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-07",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93333,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-06",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 93334,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-07",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13753,
+        "scheduleMissionUid": 93335,
+        "name": "資安網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-10",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13753,
+        "scheduleMissionUid": 93336,
+        "name": "資安網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-11",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13753,
+        "scheduleMissionUid": 93337,
+        "name": "資安網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-12",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13753,
+        "scheduleMissionUid": 93338,
+        "name": "資安網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-10",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13753,
+        "scheduleMissionUid": 93339,
+        "name": "資安網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-11",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13753,
+        "scheduleMissionUid": 93340,
+        "name": "資安網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-12",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93341,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13759,
+        "scheduleMissionUid": 93342,
+        "name": "Kali Linux弱點掃描分析",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13759,
+        "scheduleMissionUid": 93343,
+        "name": "Kali Linux弱點掃描分析",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13760,
+        "scheduleMissionUid": 93344,
+        "name": "駭客手法解析與實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-20",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13760,
+        "scheduleMissionUid": 93345,
+        "name": "駭客手法解析與實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-20",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13760,
+        "scheduleMissionUid": 93346,
+        "name": "駭客手法解析與實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-21",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13760,
+        "scheduleMissionUid": 93347,
+        "name": "駭客手法解析與實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-21",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93348,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-22",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93349,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-22",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93350,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-29",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93351,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-29",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93352,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-06",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93353,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-06",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93354,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-13",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "695",
+            "teacherName": "廖宗文",
+            "teacherUid": 4,
+            "userUid": 129876
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13763,
+        "scheduleMissionUid": 93355,
+        "name": "Kubernetes容器技術應用與安全設定",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-13",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93356,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-24",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93357,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-24",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93358,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-24",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93359,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93360,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-11-27",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93361,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93362,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-11-27",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93363,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13767,
+        "scheduleMissionUid": 93364,
+        "name": "GCP CloudOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-11-27",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13760,
+        "scheduleMissionUid": 93365,
+        "name": "駭客手法解析與實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-01",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13760,
+        "scheduleMissionUid": 93366,
+        "name": "駭客手法解析與實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-01",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93367,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-02",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93368,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-02",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93369,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-02",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93370,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-04",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93371,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-04",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93372,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-05",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93373,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-05",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93374,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-05",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93375,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-10",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93376,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-10",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93377,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-12",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93378,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-12",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93379,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-12",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93380,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-11",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93381,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-11",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13764,
+        "scheduleMissionUid": 93382,
+        "name": "企業雲端應用專題",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-10",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13764,
+        "scheduleMissionUid": 93383,
+        "name": "企業雲端應用專題",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93384,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93385,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-17",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93386,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93387,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93388,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "陳靜慧",
+            "teacherName": "陳靜慧",
+            "teacherUid": 113,
+            "userUid": 262846
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 14217,
+        "scheduleMissionUid": 93389,
+        "name": "就業輔導",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "10:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 2
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13764,
+        "scheduleMissionUid": 93390,
+        "name": "企業雲端應用專題",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93391,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-23",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93392,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-24",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93393,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-24",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13761,
+        "scheduleMissionUid": 93394,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-24",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93395,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93396,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93397,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-26",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93398,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-31",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93399,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-12-31",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13762,
+        "scheduleMissionUid": 93400,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-31",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13764,
+        "scheduleMissionUid": 93401,
+        "name": "企業雲端應用專題",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-12-30",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93402,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2026-01-02",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93403,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2026-01-05",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93404,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2026-01-05",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14216,
+        "scheduleMissionUid": 93405,
+        "name": "專題實作",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2026-01-06",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13764,
+        "scheduleMissionUid": 93406,
+        "name": "企業雲端應用專題",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2026-01-06",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "雲育鏈",
+            "teacherName": "李秉鴻",
+            "teacherUid": 419,
+            "userUid": 166674
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13765,
+        "scheduleMissionUid": 93407,
+        "name": "企業雲端應用專題驗收",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2026-01-09",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14218,
+        "scheduleMissionUid": 93408,
+        "name": "就業媒合",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2026-01-15",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14218,
+        "scheduleMissionUid": 93409,
+        "name": "就業媒合",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2026-01-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14218,
+        "scheduleMissionUid": 93410,
+        "name": "就業媒合",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2026-01-16",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14219,
+        "scheduleMissionUid": 93411,
+        "name": "Amazon AWS 企業雲端安全",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-04",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14220,
+        "scheduleMissionUid": 93412,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-11",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [],
+        "classID": "CJC102",
+        "eventStageUid": 14220,
+        "scheduleMissionUid": 93413,
+        "name": "DevOps",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "18:30:00",
+        "classEndTime": "21:30:00",
+        "date": "2025-12-18",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Night",
+        "classRoomName": " 902",
+        "itemType": "active",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 94394,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-22",
+        "courseUid": null,
+        "classRoomUid": "21",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 905",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13754,
+        "scheduleMissionUid": 94395,
+        "name": "VMware",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-22",
+        "courseUid": null,
+        "classRoomUid": "21",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 905",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 94396,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-29",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "戴致禮",
+            "teacherName": "戴致禮",
+            "teacherUid": 86,
+            "userUid": 19435
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13752,
+        "scheduleMissionUid": 94397,
+        "name": "進階網路技術",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-29",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 94398,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "09:00:00",
+        "classEndTime": "12:00:00",
+        "date": "2025-10-07",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Day",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      },
+      {
+        "teacherList": [
+          {
+            "nickname": "350",
+            "teacherName": "張瑋麟",
+            "teacherUid": 9,
+            "userUid": 153238
+          }
+        ],
+        "classID": "CJC102",
+        "eventStageUid": 13755,
+        "scheduleMissionUid": 94399,
+        "name": "Linux系統管理",
+        "classUid": 1096,
+        "courseType": null,
+        "classStartTime": "13:30:00",
+        "classEndTime": "16:30:00",
+        "date": "2025-10-07",
+        "courseUid": null,
+        "classRoomUid": "18",
+        "location": "JungliCenter",
+        "interval": "Evening",
+        "classRoomName": " 902",
+        "itemType": "course",
+        "isSignIn": 0,
+        "status": 1,
+        "memo": null,
+        "perHours": 3
+      }
+    ]
+  },
+  "message": "OK"
+}
