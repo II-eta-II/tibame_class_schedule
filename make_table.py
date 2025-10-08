@@ -8,7 +8,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfbase import pdfmetrics
 import json
 from class_name_reshape import class_name_reshape
-from env import PDF_NAME, API_JSON
+from env import PDF_NAME, API_JSON, CLASS_CODE
 from reportlab.pdfgen import canvas
 
 # 註冊字型，否則會變框框
@@ -23,7 +23,7 @@ style_bold = ParagraphStyle("Bold", fontName="MSJH-Bold", fontSize=9, leading=12
 
 def add_page_title(c: canvas.Canvas, doc):
     c.saveState()
-    title_text = "TJC102 課表"
+    title_text = CLASS_CODE + " 課表"
     style_title = ParagraphStyle(
         name="PageTitle",
         fontName="MSJH-Bold",
