@@ -5,7 +5,7 @@ Tibame課表自動下載
     - 在工作目錄下創建token檔案，並填寫於檔案內。
       登入帳號密碼後由開發人員工具獲得。
       https://www.tibame.com/curriculum/class
-    - env.pu 設定
+    - env.py 設定
       CLASS_START:課程開始時間。
       CLASS_END:課程結束時間。
       CLASS_CODE:課程代號。
@@ -34,3 +34,7 @@ token
 底色
 color_chart.py
 會輸出 pdf 色碼表，想換顏色的可以參考置換 colors.colorname 參數
+
+3. 程式維護
+  a.  在程式間傳遞的幾乎都是原始資料的 json/dict 格式。
+      存檔檔名記錄在 API_JSON

@@ -20,7 +20,8 @@ def get_schedule(from_file=False):
     with open(API_TOKEN_FILE, "r") as file:
         token = file.read()
     if token is None:
-        print("無法讀取token，請檢察檔案是否存在")
+        print("無法讀取token，請檢察檔案是否存在。")
+        print("查閱 README 取得正確設置方式。")
         return None
 
     # 參數設定，設定擷取時間範圍
