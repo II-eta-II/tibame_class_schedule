@@ -2,9 +2,14 @@ Tibame課表自動下載
 
 1. 操作要領
   a. 預先設定
-    - 在工作目錄下創建token檔案，並填寫於檔案內。
-      登入帳號密碼後由開發人員工具獲得。
-      https://www.tibame.com/curriculum/class
+    - 在工作目錄下創建 `password.json` 檔案，格式如下：
+      ```json
+      {
+          "classID": "你的班級代號",
+          "password": "你的密碼"
+      }
+      ```
+      可參考 `password.json.example` 範例檔案。
     - env.py 設定
       CLASS_START:課程開始時間。
       CLASS_END:課程結束時間。
@@ -29,7 +34,7 @@ parameter
 開始以及結束時間
 
 token
-登入帳號密碼後從開發人員工具得知
+程式會自動讀取 password.json 並產生 Base64 編碼的 token
 
 底色
 color_chart.py

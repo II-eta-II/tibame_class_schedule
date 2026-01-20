@@ -95,12 +95,12 @@ def make_table(schedule):
         # 建立兩個 Pivot
         pivot_name = week_data.pivot_table(
             index="interval", columns="date", values="info_name",
-            aggfunc=lambda x: "<br/><br/>".join(x)
+            aggfunc=lambda x: "<br/><br/>".join(str(v) for v in x if pd.notna(v))
         ).reindex(interval_order).fillna("")
 
         pivot_detail = week_data.pivot_table(
             index="interval", columns="date", values="info_detail",
-            aggfunc=lambda x: "<br/><br/>".join(x)
+            aggfunc=lambda x: "<br/><br/>".join(str(v) for v in x if pd.notna(v))
         ).reindex(interval_order).fillna("")
 
         # 建立表格資料（兩層）

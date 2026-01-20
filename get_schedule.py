@@ -1,6 +1,9 @@
 import requests
 import json
-from env import API_JSON, API_TOKEN_FILE, CLASS_START, CLASS_END
+import base64
+from env import API_JSON, CLASS_START, CLASS_END
+
+PASSWORD_FILE = "password.json"
 
 def get_schedule(from_file=False):
 
@@ -15,12 +18,14 @@ def get_schedule(from_file=False):
         
     # API網址
     url = "https://api-c2c.tibame.com/v1/c2c/schedule/student/schedule-list"
-    # token設定
-    token = None
-    with open(API_TOKEN_FILE, "r") as file:
-        token = file.read()
-    if token is None:
-        print("無法讀取token，請檢察檔案是否存在。")
+    
+    # 讀取 password.json 並產生 token
+    try:
+        with open(PASSWORD_FILE, "r", encoding="utf-8") as file:
+            password_data = json.load(file)
+        token = base64.b64encode(json.dumps(password_data).encode()).decode()
+    except FileNotFoundError:
+        print(f"無法讀取 {PASSWORD_FILE}，請檢查檔案是否存在。")
         print("查閱 README 取得正確設置方式。")
         return None
 

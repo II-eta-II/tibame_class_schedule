@@ -1,4 +1,3 @@
-API_TOKEN_FILE = "token"
 CLASS_START = "2025/9/01 00:00:00"
 CLASS_END = "2026/01/31 23:59:59"
 API_JSON = "class_schedule.json"
